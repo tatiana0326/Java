@@ -74,7 +74,7 @@ public class Main {
         //PREGUNTA 05
         int num;
         num = 8;
-        //System.out.println("Ingrese un número:");
+        //System.out.println("Ingrese un número :");
         //num=obj.nextInt();
 
         System.out.println("***************************");
